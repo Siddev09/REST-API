@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Kids Educational Toys",
+        "company": "apple",
+        "price": 39,
+        "rating": 4,
+        "isFeatured": true
+    },
+    {
+        "name": "Wireless Earbuds",
+        "company": "samsung",
+        "price": 79,
+        "rating": 4.2,
+        "isFeatured": false
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "company": "mi",
+        "price": 299,
+        "rating": 4.5,
+        "isFeatured": true
+    },
+    {
+        "name": "Wireless Gaming Mouse",
+        "company": "samsung",
+        "price": 49,
+        "rating": 4.9,
+        "isFeatured": true
+    },
+    {
+        "name": "Slow Cooker",
+        "company": "apple",
+        "price": 79,
+        "rating": 4.1,
+        "isFeatured": false
+    },
+    {
+        "name": "Designer Watch",
+        "company": "mi",
+        "price": 299,
+        "rating": 4.0,
+        "isFeatured": true
+    },
+    {
+        "name": "Designer yoyo",
+        "company": "mi",
+        "price": 199,
+        "rating": 4.0,
+        "isFeatured": true
+    },
+    {
+        "name": "Designer ipad",
+        "company": "mi",
+        "price": 229,
+        "rating": 4.0,
+        "isFeatured": true
+    },
+    {
+        "name": "Designer ipod",
+        "company": "mi",
+        "price": 999,
+        "rating": 4.3,
+        "isFeatured": true
+    }
+
+]
